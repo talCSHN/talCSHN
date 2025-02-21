@@ -1,7 +1,5 @@
-## PARK KWANHO 👋
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=header&text=PARK%20KWANHO&fontSize=70)
-
-
+***
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=talCSHN&utm_content=farm">
 <img
   src="https://render.gitanimals.org/farms/talCSHN"
