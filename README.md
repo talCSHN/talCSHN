@@ -3,8 +3,8 @@
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=talCSHN&utm_content=farm">
 <img
   src="https://render.gitanimals.org/farms/talCSHN"
-  width="600"
-  height="300"
+  width="400"
+  height="200"
 />
 </a>
 
