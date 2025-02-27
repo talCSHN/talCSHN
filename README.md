@@ -1,7 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=header&text=PARK%20KWANHO&fontSize=70)
 ***
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=talCSHN&layout=compact)
-***
 
 <div align=center><h1>📚 STACKS</h1></div>
 
