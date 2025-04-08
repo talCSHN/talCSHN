@@ -1,7 +1,7 @@
 <!--![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=header&text=PARK%20KWANHO&fontSize=70)-->
 ![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=300&section=header&text=PARK%20KWANHO%20&fontSize=90&fontColor=#606060&animation=blink)
 ***
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=talCSHN&layout=compact)
+<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=talCSHN&layout=compact)-->
 
 <div align=center><h1>📚 STACKS</h1></div>
 
