@@ -1,7 +1,37 @@
-<!--![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=header&text=PARK%20KWANHO&fontSize=70)-->
+<!--![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=header&text=PARK%20KWANHO&fontSize=70&fontColor=black)-->
 ![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=300&section=header&text=PARK%20KWANHO%20&fontSize=90&fontColor=#606060&animation=blink)
 ***
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=talCSHN&layout=compact&exclude_repo=IoT_Algorithm_2025,codingTest_practice)
+
+<p align="center"><strong>- :email:Email : yujakinasakoon@gmail.com</strong></p>
+
+<!--<p align="center"><strong>yujakinasakoon@gmail.com</strong></p>-->
+
+<p align="center"><strong>- 📘Tech Blog : <a href="https://velog.io/@wwh11111/posts" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white"/></a></strong></p>
+
+<!--<p align="center"><a href="https://velog.io/@wwh11111/posts" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white"/></a></p>-->
+
+<table align="center">
+  <tr>
+    <td align="center" colspan="2">
+      <strong>🗂️ Projects</strong>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/DarkCircle-chatApp-server/chat_server.git">
+        💬 채팅앱 팀프로젝트
+      </a>
+    </td>
+    <td align="center" style="padding-left: 20px;">
+      <a href="https://github.com/eDrink24">
+        🏪 온라인 편의점 팀프로젝트
+      </a>
+    </td>
+  </tr>
+</table>
+<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=talCSHN&layout=compact&exclude_repo=IoT_Algorithm_2025,codingTest_practice)-->
+
+***
 
 <div align=center><h1>📚 STACKS</h1></div>
 
@@ -19,7 +49,7 @@
   <img src="https://img.shields.io/badge/mariaDB-003545?style=for-the-badge&logo=mariaDB&logoColor=white">
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=Redis&logoColor=white"> 
   <br>
-  <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> 
+  <!--<img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> -->
   <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
   <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white">
   <img src="https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi">
@@ -34,16 +64,16 @@
   <br>
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
-  <img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=flat-square&logo=GitHub Actions&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=for-the-badge&logo=GitHub Actions&logoColor=white">
   <br>
-  <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=Visual Studio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=for-the-badge&logo=Visual Studio&logoColor=white"/>
   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white"/>
   <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white">
   <img src="https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white">
   <br>
   <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white">
   <img src="https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white">
-  <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white"/>
+  <!--<img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white"/>-->
   <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white">
   <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
 </div>
