@@ -1,5 +1,5 @@
 <!--![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=header&text=PARK%20KWANHO&fontSize=70&fontColor=black)-->
-![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=300&section=header&text=PARK%20KWANHO%20&fontSize=90&fontColor=%23606060&animation=blink)
+![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=300&section=header&text=PARK%20KWANHO%20&fontSize=90&fontColor=%23606060&animation=typing)
 ***
 
 <p align="center"><strong>- :email:Email : yujakinasakoon@gmail.com</strong></p>
