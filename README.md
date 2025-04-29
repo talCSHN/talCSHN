@@ -12,7 +12,7 @@
 <!--나중에 기술스택별로 플젝 항목 분류-->
 <table align="center">
   <tr>
-    <td align="center" colspan="2">
+    <td align="center" colspan="3">
       <strong>🗂️ Projects</strong>
     </td>
   </tr>
@@ -25,6 +25,11 @@
     <td align="center" style="padding-left: 20px;">
       <a href="https://github.com/eDrink24">
         🏪 온라인 편의점 팀프로젝트
+      </a>
+    </td>
+    <td align="center" style="padding-left: 20px;">
+      <a href="https://github.com/talCSHN/IoT_CSharp_WinApp_2025/tree/main/toyproject/WinFormPractice">
+        🎮 보물찾기 게임
       </a>
     </td>
   </tr>
