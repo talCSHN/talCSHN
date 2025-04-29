@@ -28,8 +28,8 @@
       </a>
     </td>
     <td align="center" style="padding-left: 20px;">
-      <a href="https://github.com/talCSHN/IoT_CSharp_WinApp_2025/tree/main/toyproject/WinFormPractice">
-        🎮 보물찾기 게임
+      <a href="https://github.com/talCSHN/Toy_Projects">
+        🎮 토이프로젝트 모음
       </a>
     </td>
   </tr>
