@@ -27,12 +27,12 @@
   <tr>
     <td align="center" style="padding: 10px;">
       <a href="https://github.com/DarkCircle-chatApp-server/chat_server.git">
-        💬 실시간 채팅앱
+        💬 실시간 채팅프로그램
       </a>
     </td>
     <td align="center" style="padding: 10px;">
       <a href="https://github.com/eDrink24">
-        🏪 주류 전문 편의점 웹앱
+        🏪 주류 전문 온라인 편의점
       </a>
     </td>
   </tr>
