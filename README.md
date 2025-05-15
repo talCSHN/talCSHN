@@ -6,8 +6,8 @@
   </a> -->
 <!-- </p> -->
 <a href="https://github.com/talCSHN">
-    <img src="https://capsule-render.vercel.app/api?type=blur&height=250&color=gradient&text=KWANHO's%20GitHub&fontColor=111111&fontSize=60&animation=twinkling&fontAlignY=42"/>
-    
+    <img src="https://capsule-render.vercel.app/api?type=blur&height=250&color=gradient&text=KWANHO's%20GitHub&fontColor=FF8C00&fontSize=60&animation=twinkling&fontAlignY=42"/>
+
 ***
 
 <p align="center"><strong>- :email:Email : yujakinasakoon@gmail.com</strong></p>
