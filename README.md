@@ -20,27 +20,29 @@
 <!--나중에 기술스택별로 플젝 항목 분류-->
 <table align="center">
   <tr>
-    <td align="center" colspan="4">
+    <td align="center" colspan="2">
       <strong>🗂️ Projects</strong>
     </td>
   </tr>
   <tr>
-    <td align="center">
+    <td align="center" style="padding: 10px;">
       <a href="https://github.com/DarkCircle-chatApp-server/chat_server.git">
         💬 실시간 채팅앱
       </a>
     </td>
-    <td align="center" style="padding-left: 20px;">
+    <td align="center" style="padding: 10px;">
       <a href="https://github.com/eDrink24">
         🏪 주류 전문 편의점 웹앱
       </a>
     </td>
-    <td align="center" style="padding-left: 20px;">
+  </tr>
+  <tr>
+    <td align="center" style="padding: 10px;">
       <a href="https://github.com/2025-IoT-GOATs/OX_Game_Client">
         🎮 온라인 OX게임 클라이언트(진행중)
       </a>
     </td>
-    <td align="center" style="padding-left: 20px;">
+    <td align="center" style="padding: 10px;">
       <a href="https://github.com/talCSHN/Toy_Projects">
         🧩 토이프로젝트 모음
       </a>
