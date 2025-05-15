@@ -8,13 +8,13 @@
 <a href="https://github.com/talCSHN">
     <img src="https://capsule-render.vercel.app/api?type=blur&height=250&color=gradient&text=KWANHO's%20GitHub&fontColor=FF8C00&fontSize=60&animation=twinkling&fontAlignY=42"/>
 
-***
-
-<p align="center"><strong>- :email:Email : yujakinasakoon@gmail.com</strong></p>
-
+<!--<p align="center"><strong>- :email:Email : yujakinasakoon@gmail.com</strong></p>-->
+<p align="right"><strong>- 💼Portfolio : <a href="https://talcshn.github.io/"><img src="https://img.shields.io/badge/Portfolio-007ACC?style=for-the-badge&logo=githubpages&logoColor=white" /></a></strong></p>
 <!--<p align="center"><strong>yujakinasakoon@gmail.com</strong></p>-->
 
-<p align="center"><strong>- 📘Tech Blog : <a href="https://velog.io/@wwh11111/posts" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white"/></a></strong></p>
+<p align="right"><strong>- 📘Tech Blog : <a href="https://velog.io/@wwh11111/posts" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white"/></a></strong></p>
+
+***
 
 <!--<p align="center"><a href="https://velog.io/@wwh11111/posts" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white"/></a></p>-->
 <!--나중에 기술스택별로 플젝 항목 분류-->
