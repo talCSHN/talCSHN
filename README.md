@@ -100,7 +100,15 @@
 ***
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=talCSHN&show_icons=true&theme=radical)
 ***
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=talCSHN&utm_content=line">
+
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=talCSHN&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/talCSHN"
+  width="600"
+  height="300"
+/>
+</a>
+<!--<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=talCSHN&utm_content=line">
   <img
     src="https://render.gitanimals.org/lines/talCSHN?pet-id=680336529717987583"
     width="600"
@@ -120,7 +128,7 @@
     width="600"
     height="120"
   />
-</a>
+</a>-->
 
 <!--
 **talCSHN/talCSHN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
