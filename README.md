@@ -26,7 +26,7 @@
   </tr>
   <tr>
     <td align="center" style="padding: 10px;">
-      <a href="https://github.com/DarkCircle-chatApp-server/chat_server.git">
+      <a href="https://github.com/DarkCircle-chatApp-server">
         💬 실시간 채팅프로그램
       </a>
     </td>
