@@ -100,7 +100,7 @@
 </div>
 
 ***
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=talCSHN&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=talCSHN&show_icons=true&theme=highcontrast)
 ***
 
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=talCSHN&utm_content=farm">
