@@ -103,6 +103,12 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=talCSHN&show_icons=true&theme=highcontrast)
 ***
 
+<div align="center">
+  <img src="https://count.getloli.com/@talCSHN?name=talCSHN&theme=rule34&padding=1&offset=0&align=top&scale=1.5&pixelated=1&darkmode=auto&prefix=001">
+</div>
+
+***
+
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=talCSHN&utm_content=farm">
 <img
   src="https://render.gitanimals.org/farms/talCSHN"
