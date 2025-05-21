@@ -18,7 +18,7 @@
 
 <!--<p align="center"><a href="https://velog.io/@wwh11111/posts" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white"/></a></p>-->
 <!--나중에 기술스택별로 플젝 항목 분류-->
-<table align="left">
+<table align="center">
   <tr>
     <td align="center" colspan="2">
       <strong>🗂️ Projects</strong>
@@ -51,7 +51,7 @@
 </table>
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=talCSHN&layout=compact&exclude_repo=IoT_Algorithm_2025,codingTest_practice)-->
 
-
+***
 
 <!-- <div align=left><h2>📖 CURRENTLY STUDYING</h2></div> -->
 ### 📖 CURRENTLY STUDYING
