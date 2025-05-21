@@ -58,6 +58,14 @@
 - **C# 고급 문법 및 비동기 프로그래밍** - [링크](https://github.com/talCSHN/CSharp_Self_Study)
 - **게임 클라이언트 개발** - [링크](https://github.com/2025-IoT-GOATs/OX_Game_Client)
 
+#### 2025.08 까지 목표
+**- 자격증 - 정보처리기사(2024.12), SQLD, 네트워크관리사 2급**
+
+**- 프로젝트 5개 이상 - 온라인 편의점(2024.08), 실시간 채팅앱(2025.04), 온라인 OX게임(진행중), 2차 플젝(주제 미정), 3차 플젝(주제 미정), 파이널 플젝(주제 미정)**
+
+**- CS 공부 - 컴퓨터 구조, OS, 네트워크**
+
+**- 알고리즘 공부 - 백준 골드티어, 프로그래머스 lv3 정복**
 ***
 
 <div align=left><h1>📚 STACKS</h1></div>
@@ -99,21 +107,22 @@
   <br>
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
   <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
-  <br>
-  <br>
-  <strong>IoT</strong>
-  <br>
   <img src="https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi">
   <!--<img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"> -->
   <!--<img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white">-->
   <!--<img src="https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white">-->
   <br>
   <br>
+  <strong>INFRA</strong>
+  <br>
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
+  <br>
+  <br>
   <strong>TOOLS</strong>
   <br>
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
-   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
+  
   <!--<img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white">-->
   <br>
   <!--<img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white"/>
