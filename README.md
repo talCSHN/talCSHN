@@ -39,7 +39,7 @@
   <tr>
     <td align="center" style="padding: 10px;">
       <a href="https://github.com/2025-IoT-GOATs/OX_Game_Client">
-        🎮 온라인 OX게임 클라이언트(진행중)
+        🎮 경량 게임 클라이언트 라이브러리(진행중)
       </a>
     </td>
     <td align="center" style="padding: 10px;">
