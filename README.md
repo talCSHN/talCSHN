@@ -55,9 +55,9 @@
 
 <!-- <div align=left><h2>📖 CURRENTLY STUDYING</h2></div> -->
 ### 📖 CURRENTLY STUDYING
-- **C# 고급 문법** - [C#](https://github.com/talCSHN/CSharp_Self_Study)
-- **비동기 프로그래밍** - [비동기 프로그래밍](https://github.com/talCSHN/Conquer_Concurrency)
-- **게임 클라이언트 개발** - [Repository](https://github.com/2025-IoT-GOATs/OX_Game_Client)
+- **C# 고급 문법** - [링크](https://github.com/talCSHN/CSharp_Self_Study)
+- **비동기 프로그래밍** - [링크](https://github.com/talCSHN/Conquer_Concurrency)
+- **게임 클라이언트 개발** - [링크](https://github.com/2025-IoT-GOATs/OX_Game_Client)
 
 ### 🎯2025.08 까지 목표
 **1. 자격증 - 정보처리기사(2024.12), SQLD, 네트워크관리사 2급**
