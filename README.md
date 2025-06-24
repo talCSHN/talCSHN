@@ -149,7 +149,7 @@
 </div>
 
 ***
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=talCSHN&show_icons=true&theme=highcontrast)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=talCSHN&show_icons=true&theme=ambient_gradient)
 
 <!--<img src="https://count.getloli.com/@talCSHN?theme=moebooru">-->
 
