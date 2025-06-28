@@ -38,8 +38,8 @@
   </tr>
   <tr>
     <td align="center" style="padding: 10px;">
-      <a href="https://github.com/2025-IoT-GOATs/OX_Game_Client">
-        🎮 경량 게임 클라이언트 라이브러리(진행중)
+      <a href="https://github.com/talCSHN/IoT_Personal_Project/tree/main/miniproject2">
+        🏭 MES 공정관리 시뮬레이션
       </a>
     </td>
     <td align="center" style="padding: 10px;">
