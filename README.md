@@ -59,7 +59,7 @@
 <!--- **비동기 프로그래밍** - [링크](https://github.com/talCSHN/Conquer_Concurrency)-->
 <!--- **게임 클라이언트 개발** - [링크](https://github.com/2025-IoT-GOATs/OX_Game_Client)-->
 - **알고리즘/코딩테스트** - [링크](https://github.com/talCSHN/codingTest_practice)
-- **OS** - [링크](https://github.com/talCSHN/No_CS_No_Coding)
+- **OS, Network** - [링크](https://github.com/talCSHN/No_CS_No_Coding)
 - **Unity** - [링크](https://github.com/talCSHN/Unity_leads_me_to_Nexon)
 
 ### 🎯2025.08 까지 목표
