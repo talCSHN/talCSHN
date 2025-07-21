@@ -9,12 +9,12 @@
     <img src="https://capsule-render.vercel.app/api?type=blur&height=250&color=gradient&text=KWANHO's%20GitHub&fontColor=FF8C00&fontSize=60&animation=twinkling&fontAlignY=42"/>
 
 <!--<p align="center"><strong>- :email:Email : yujakinasakoon@gmail.com</strong></p>-->
-<p align="right"><strong>- 💼Portfolio : <a href="https://talCSHN.github.io/"><img src="https://img.shields.io/badge/Portfolio-007ACC?style=for-the-badge&logo=githubpages&logoColor=white" /></a></strong></p>
+<p align="right"><strong>- 💼Portfolio - <a href="https://talCSHN.github.io/"><img src="https://img.shields.io/badge/Portfolio-007ACC?style=for-the-badge&logo=githubpages&logoColor=white" /></a></strong></p>
 <!--<p align="center"><strong>yujakinasakoon@gmail.com</strong></p>-->
 
-<p align="right"><strong>- 📑Resume : <a href="https://github.com/talCSHN/talCSHN/raw/main/About%20Me/%EC%9D%B4%EB%A0%A5%EC%84%9C_%EB%B0%95%EA%B4%80%ED%98%B8.pdf" target="_blank">[다운로드]</a></strong></p>
+<p align="right"><strong>- 📑Resume - Click Here👉<a href="https://github.com/talCSHN/talCSHN/raw/main/About%20Me/%EC%9D%B4%EB%A0%A5%EC%84%9C_%EB%B0%95%EA%B4%80%ED%98%B8.pdf" target="_blank">[다운로드]</a></strong></p>
 
-<p align="right"><strong>- 📘Tech Blog : <a href="https://velog.io/@wwh11111/posts" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white"/></a></strong></p>
+<p align="right"><strong>- 📘Blog - Click Here👉<a href="https://velog.io/@wwh11111/posts" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white"/></a></strong></p>
 
 ***
 
