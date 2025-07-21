@@ -12,6 +12,8 @@
 <p align="right"><strong>- 💼Portfolio : <a href="https://talCSHN.github.io/"><img src="https://img.shields.io/badge/Portfolio-007ACC?style=for-the-badge&logo=githubpages&logoColor=white" /></a></strong></p>
 <!--<p align="center"><strong>yujakinasakoon@gmail.com</strong></p>-->
 
+<p align="right"><strong>- 📑Resume : <a href=""><img src="" /></a></strong></p>
+
 <p align="right"><strong>- 📘Tech Blog : <a href="https://velog.io/@wwh11111/posts" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white"/></a></strong></p>
 
 ***
