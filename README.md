@@ -70,7 +70,7 @@
 
 **3. CS 공부(진행중) - OS, 네트워크, 컴퓨터 구조**
 
-**4. 알고리즘 공부(진행중) - 백준 골드티어, 프로그래머스 lv3 정복**
+**4. 알고리즘 공부(진행중) - Codetree Intermediate mid 단계까지**
 ***
 
 <div align=left><h1>📚 STACKS</h1></div>
