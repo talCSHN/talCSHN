@@ -14,7 +14,7 @@
     Click Here👉 
     <a href="https://github.com/talCSHN/talCSHN/raw/main/Resume/%EC%9D%B4%EB%A0%A5%EC%84%9C_%EB%B0%95%EA%B4%80%ED%98%B8.pdf" target="_blank">[📑Download Resume]</a>
     &nbsp;|&nbsp;
-    <a href="https://github.com/talCSHN/talCSHN/raw/main/Portfolio/%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4_%EB%B0%95%EA%B4%80%ED%98%B8.pdf" target="_blank">[📑Download Portfolio]</a>
+    <a href="https://github.com/talCSHN/talCSHN/raw/main/Portfolio/%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4_%EB%B0%95%EA%B4%80%ED%98%B8.pdf" target="_blank">[💼Download Portfolio]</a>
   </strong>
 </p>
 <!--<p align="right"><strong>Click Here👉 <a href="https://github.com/talCSHN/talCSHN/raw/main/Portfolio/%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4_%EB%B0%95%EA%B4%80%ED%98%B8.pdf" target="_blank">[📑Download Portfolio]</a></strong></p>-->
