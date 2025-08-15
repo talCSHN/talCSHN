@@ -16,12 +16,13 @@
 <p align="right"><strong>Click Here👉 <a href="https://velog.io/@wwh11111/posts" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white"/></a></strong></p>
 
 ***
+<!--[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DarkCircle-chatApp-server&repo=chat_server)](https://github.com/DarkCircle-chatApp-server)-->
 
 <!--<p align="center"><a href="https://velog.io/@wwh11111/posts" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white"/></a></p>-->
 <!--나중에 기술스택별로 플젝 항목 분류-->
 <table align="center">
   <tr>
-    <td align="center" colspan="2">
+    <td align="center" colspan="3">
       <strong>🗂️ Projects</strong>
     </td>
   </tr>
@@ -36,8 +37,18 @@
         🏪 주류 전문 온라인 편의점
       </a>
     </td>
+    <td align="center" style="padding: 10px;">
+      <a href="https://github.com/DarkCircle-Final">
+        🐟 IoT 스마트 어항 프로그램
+      </a>
+    </td>
   </tr>
   <tr>
+    <td align="center" style="padding: 10px;">
+      <a href="https://github.com/talCSHN/DJ-Zeus">
+        ☀️ 날씨기반 음악 스트리밍앱
+      </a>
+    </td>
     <td align="center" style="padding: 10px;">
       <a href="https://github.com/talCSHN/IoT_Personal_Project/tree/main/miniproject2">
         🏭 MES 공정관리 시뮬레이션
