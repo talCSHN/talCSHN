@@ -22,9 +22,9 @@
 <!--<p align="right"><strong>Click Here👉 <a href="https://github.com/talCSHN/talCSHN/raw/main/Portfolio/%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4_%EB%B0%95%EA%B4%80%ED%98%B8.pdf" target="_blank">[📑Download Portfolio]</a></strong></p>-->
 <!--<p align="center"><strong>yujakinasakoon@gmail.com</strong></p>-->
 
-<!--
+
 <p align="right"><strong>My Blog👉 <a href="https://velog.io/@wwh11111/posts" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white"/></a></strong></p>
--->
+
 
 ***
 <!--[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DarkCircle-chatApp-server&repo=chat_server)](https://github.com/DarkCircle-chatApp-server)-->
