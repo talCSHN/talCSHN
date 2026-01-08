@@ -98,13 +98,13 @@
 
 **4. 알고리즘 공부(진행중) - Codetree Intermediate mid 단계까지**
 -->
-***
+
 
 <!--
 <div align=left><h1>📚 STACKS</h1></div>
 -->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=talCSHN&show_icons=true&theme=ambient_gradient)
+<!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=talCSHN&show_icons=true&theme=ambient_gradient)-->
 
 <!--<img src="https://count.getloli.com/@talCSHN?theme=moebooru">-->
 
