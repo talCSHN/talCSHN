@@ -77,8 +77,8 @@
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=talCSHN&layout=compact&exclude_repo=IoT_Algorithm_2025,codingTest_practice)-->
 
 <!-- <div align=left><h2>📖 CURRENTLY STUDYING</h2></div> -->
-### Xpanner (2025.10 ~ 2026.01)
-- **F/W Developer**
+### F/W Developer
+- **Xpanner (2025.10 ~ 2026.01)**
 <!-- - **C# 고급 문법** - [링크](https://github.com/talCSHN/CSharp_Self_Study)-->
 <!--- **비동기 프로그래밍** - [링크](https://github.com/talCSHN/Conquer_Concurrency)-->
 <!--- **게임 클라이언트 개발** - [링크](https://github.com/2025-IoT-GOATs/OX_Game_Client)-->
