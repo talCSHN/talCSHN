@@ -78,9 +78,9 @@
 
 <!-- <div align=left><h2>📖 CURRENTLY STUDYING</h2></div> -->
 ## Career
-### SSVCC (2026.03 ~ )
+### SSVCC (2026.09 ~ )
 - **특수차량팀 방산S/W Engineer**
-### SSVCC (2026.03 ~ )
+### SSVCC (2026.03 ~ 2026.08)
 - **전장개발팀 전장S/W Engineer**
 ### Xpanner (2025.10 ~ 2026.01)
 - **Embedded SW Team Intern**
